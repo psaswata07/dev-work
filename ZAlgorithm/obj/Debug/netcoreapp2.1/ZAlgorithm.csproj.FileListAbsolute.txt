@@ -1,0 +1,11 @@
+E:\.NET And WPF\ZAlgorithm\bin\Debug\netcoreapp2.1\ZAlgorithm.deps.json
+E:\.NET And WPF\ZAlgorithm\bin\Debug\netcoreapp2.1\ZAlgorithm.runtimeconfig.json
+E:\.NET And WPF\ZAlgorithm\bin\Debug\netcoreapp2.1\ZAlgorithm.runtimeconfig.dev.json
+E:\.NET And WPF\ZAlgorithm\bin\Debug\netcoreapp2.1\ZAlgorithm.dll
+E:\.NET And WPF\ZAlgorithm\bin\Debug\netcoreapp2.1\ZAlgorithm.pdb
+E:\.NET And WPF\ZAlgorithm\obj\Debug\netcoreapp2.1\ZAlgorithm.csprojAssemblyReference.cache
+E:\.NET And WPF\ZAlgorithm\obj\Debug\netcoreapp2.1\ZAlgorithm.csproj.CoreCompileInputs.cache
+E:\.NET And WPF\ZAlgorithm\obj\Debug\netcoreapp2.1\ZAlgorithm.AssemblyInfoInputs.cache
+E:\.NET And WPF\ZAlgorithm\obj\Debug\netcoreapp2.1\ZAlgorithm.AssemblyInfo.cs
+E:\.NET And WPF\ZAlgorithm\obj\Debug\netcoreapp2.1\ZAlgorithm.dll
+E:\.NET And WPF\ZAlgorithm\obj\Debug\netcoreapp2.1\ZAlgorithm.pdb

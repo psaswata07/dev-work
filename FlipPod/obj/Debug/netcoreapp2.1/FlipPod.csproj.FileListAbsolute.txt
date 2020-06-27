@@ -1,0 +1,11 @@
+E:\.NET And WPF\FlipPod\bin\Debug\netcoreapp2.1\FlipPod.deps.json
+E:\.NET And WPF\FlipPod\bin\Debug\netcoreapp2.1\FlipPod.runtimeconfig.json
+E:\.NET And WPF\FlipPod\bin\Debug\netcoreapp2.1\FlipPod.runtimeconfig.dev.json
+E:\.NET And WPF\FlipPod\bin\Debug\netcoreapp2.1\FlipPod.dll
+E:\.NET And WPF\FlipPod\bin\Debug\netcoreapp2.1\FlipPod.pdb
+E:\.NET And WPF\FlipPod\obj\Debug\netcoreapp2.1\FlipPod.csprojAssemblyReference.cache
+E:\.NET And WPF\FlipPod\obj\Debug\netcoreapp2.1\FlipPod.csproj.CoreCompileInputs.cache
+E:\.NET And WPF\FlipPod\obj\Debug\netcoreapp2.1\FlipPod.AssemblyInfoInputs.cache
+E:\.NET And WPF\FlipPod\obj\Debug\netcoreapp2.1\FlipPod.AssemblyInfo.cs
+E:\.NET And WPF\FlipPod\obj\Debug\netcoreapp2.1\FlipPod.dll
+E:\.NET And WPF\FlipPod\obj\Debug\netcoreapp2.1\FlipPod.pdb

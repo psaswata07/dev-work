@@ -1,0 +1,11 @@
+E:\.NET And WPF\SnakesAndLadders\bin\Debug\netcoreapp2.1\SnakesAndLadders.deps.json
+E:\.NET And WPF\SnakesAndLadders\bin\Debug\netcoreapp2.1\SnakesAndLadders.runtimeconfig.json
+E:\.NET And WPF\SnakesAndLadders\bin\Debug\netcoreapp2.1\SnakesAndLadders.runtimeconfig.dev.json
+E:\.NET And WPF\SnakesAndLadders\bin\Debug\netcoreapp2.1\SnakesAndLadders.dll
+E:\.NET And WPF\SnakesAndLadders\bin\Debug\netcoreapp2.1\SnakesAndLadders.pdb
+E:\.NET And WPF\SnakesAndLadders\obj\Debug\netcoreapp2.1\SnakesAndLadders.csprojAssemblyReference.cache
+E:\.NET And WPF\SnakesAndLadders\obj\Debug\netcoreapp2.1\SnakesAndLadders.csproj.CoreCompileInputs.cache
+E:\.NET And WPF\SnakesAndLadders\obj\Debug\netcoreapp2.1\SnakesAndLadders.AssemblyInfoInputs.cache
+E:\.NET And WPF\SnakesAndLadders\obj\Debug\netcoreapp2.1\SnakesAndLadders.AssemblyInfo.cs
+E:\.NET And WPF\SnakesAndLadders\obj\Debug\netcoreapp2.1\SnakesAndLadders.dll
+E:\.NET And WPF\SnakesAndLadders\obj\Debug\netcoreapp2.1\SnakesAndLadders.pdb
